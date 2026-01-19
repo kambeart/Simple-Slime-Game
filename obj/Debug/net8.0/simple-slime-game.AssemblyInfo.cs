@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("simple-slime-game")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0249c6a8f5ac9921f6bd2c6c7947a3252f2520de")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4c90224e712457c52f03a1c9b031b006fa673bad")]
 [assembly: System.Reflection.AssemblyProductAttribute("simple-slime-game")]
 [assembly: System.Reflection.AssemblyTitleAttribute("simple-slime-game")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
